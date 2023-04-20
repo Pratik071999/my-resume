@@ -1,0 +1,10 @@
+.edustyle{
+    table-layout: fixed;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.tab{
+    padding-top: 10px;
+    border-style: double;
+}
